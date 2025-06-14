@@ -5,7 +5,7 @@ scikit-learn
 jupyter
 ipykernel
 seaborn
-pytorch
+torch
 torchvision
 torchtext
 transformers
