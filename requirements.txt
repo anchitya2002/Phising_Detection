@@ -11,3 +11,4 @@ torchtext
 transformers
 datasets
 gunicorn 
+flask
