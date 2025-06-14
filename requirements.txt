@@ -10,4 +10,4 @@ torchvision
 torchtext
 transformers
 datasets
-# Add any additional libraries you need for your project
+gunicorn 
