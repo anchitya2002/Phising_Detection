@@ -12,3 +12,4 @@ transformers
 datasets
 gunicorn 
 flask
+googlesearch
